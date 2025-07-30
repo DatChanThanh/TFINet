@@ -318,7 +318,7 @@ num_epochs = 60
 best_acc = 0.0
 best_epoch = start_epoch
 
-resume_train = 'F:\THANHDAT\\final_model_epoch_53_acc_0.9020.pt'
+resume_train = 'F:\THANHDAT\final_model_epoch_53_acc_0.9020.pt'
 train_losses, val_losses = [], []
 train_accuracies, val_accuracies = [], []
 
