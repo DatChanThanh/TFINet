@@ -5,5 +5,6 @@ Accurate signal classification is a key requirement for efficient spectrum shari
 
 ![](https://github.com/DatChanThanh/TiFiNet/blob/c67d23808aa366ea217d679c75a1f493b4c40dfd/architecture.png)
 
-The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available)
+The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available).
 
+If there is any error or need to be discussed, please email to Thanh-Dat Tran via [trandatt21@gmail.com](trandatt21@gmail.com).
