@@ -3,3 +3,4 @@ Accurate signal classification is a key requirement for efficient spectrum shari
 
 The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available).
 
+ If there is any error or need to be discussed, please email to [Thanh-Dat Tran](https://github.com/DatChanThanh) via [trandatt21@gmail.com](trandatt21@gmail.com).
