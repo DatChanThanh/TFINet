@@ -1,4 +1,4 @@
-# TiFiNet
+# TFINet
 
 The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available).
 
