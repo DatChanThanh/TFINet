@@ -337,7 +337,7 @@ if os.path.exists(resume_train):
 else:
     print(f"Checkpoint {resume_train} not found. Starting from scratch.")
 
-# Train and validate
+
 for epoch in range(start_epoch, num_epochs):
     print(f"Epoch {epoch+1}/{num_epochs}")
     current_lr = optimizer.param_groups[0]['lr']
