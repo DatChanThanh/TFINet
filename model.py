@@ -214,7 +214,7 @@ class DTFEBlock(nn.Module):
     def get_total_params(self):
         return sum(p.numel() for p in self.parameters() if p.requires_grad)
 
-class TiFiNet(nn.Module):
+class TFINet(nn.Module):
 
     def __init__(self, num_classes=12):
         super().__init__()
@@ -252,7 +252,7 @@ class TiFiNet(nn.Module):
 
 
 num_classes = 12
-model = TiFiNet(num_classes=num_classes).to(device)
+model = TFINet(num_classes=num_classes).to(device)
 total_params = sum(p.numel() for p in model.parameters())
 trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
 print(f"Total number of parameters: {total_params}")
